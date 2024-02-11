@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6094fb08.css",
-    "main.js": "/static/js/main.d6f9f303.js",
-    "static/js/592.9a3e5123.chunk.js": "/static/js/592.9a3e5123.chunk.js",
-    "static/media/adaptive-icon.png": "/static/media/adaptive-icon.457a3d86a3417c824ad5.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.6094fb08.css.map": "/static/css/main.6094fb08.css.map",
-    "main.d6f9f303.js.map": "/static/js/main.d6f9f303.js.map",
-    "592.9a3e5123.chunk.js.map": "/static/js/592.9a3e5123.chunk.js.map"
+    "main.css": "/chess-beast-site/static/css/main.6094fb08.css",
+    "main.js": "/chess-beast-site/static/js/main.c95443cf.js",
+    "static/js/592.9a3e5123.chunk.js": "/chess-beast-site/static/js/592.9a3e5123.chunk.js",
+    "static/media/adaptive-icon.png": "/chess-beast-site/static/media/adaptive-icon.457a3d86a3417c824ad5.png",
+    "static/media/logo.svg": "/chess-beast-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chess-beast-site/index.html",
+    "main.6094fb08.css.map": "/chess-beast-site/static/css/main.6094fb08.css.map",
+    "main.c95443cf.js.map": "/chess-beast-site/static/js/main.c95443cf.js.map",
+    "592.9a3e5123.chunk.js.map": "/chess-beast-site/static/js/592.9a3e5123.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6094fb08.css",
-    "static/js/main.d6f9f303.js"
+    "static/js/main.c95443cf.js"
   ]
 }
