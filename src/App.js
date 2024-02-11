@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Chess Beast</h1>
       </header>
-      <div>
+      <div> 
         <p>
           Chess Beast is a chess game that uses an aggressive but optional timer to keep the human player playing at a fast pace.
         </p>
